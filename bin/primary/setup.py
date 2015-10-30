@@ -1,3 +1,5 @@
+AUTHOR = "T.L"
+
 TITLE = "WORD GAME"
 
 WINDOW_X = 1300 
